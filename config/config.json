@@ -1,0 +1,12 @@
+{
+    "development": {
+        "PORT": 3000,
+        "MONGODB_URI": "mongodb://localhost:27017/mongo-example",
+        "JWT_SECRET": "asjrbfguwgebaiuhr3i475683463qyeaugdsk"
+    },
+    "test": {
+        "PORT": 5000,
+        "MONGODB_URI": "mongodb://localhost:27017/mongo-example-test",
+        "JWT_SECRET": "jkfdhgli3y4owyeinfglun4u6w7riynug"
+    }
+}
